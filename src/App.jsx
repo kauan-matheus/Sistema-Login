@@ -1,10 +1,14 @@
-import { useState } from 'react'
+import { useState } from "react";
+import Cadastro from "./components/Cadastro/Cadastro";
+import Login from "./components/Login/Login.jsx";
 
 function App() {
-
   return (
-   <h1>Sistema de Login + API REST NodeJS</h1>
-  )
+    <>
+      <Login />
+      <Cadastro />
+    </>
+  );
 }
 
-export default App
+export default App;
