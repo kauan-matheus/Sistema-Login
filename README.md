@@ -1,2 +1,2 @@
-# Sistema de Login em React Integrado a API REST em NodeJS com MongoDB
+# Sistema de Login em React Integrado a API REST
 
