@@ -66,3 +66,7 @@ A documentação completa da API, incluindo detalhes sobre os endpoints, parâme
 ## Contato
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+
+## Melhorias
+
+Planejo implementar tratamento de erros, adicionar uma rota PUT e desenvolver um sistema mais completo, incluindo uma página de login.
